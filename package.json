@@ -1,0 +1,10 @@
+{
+  "name": "ai-label-tool",
+  "devDependencies": {
+    "electron": "^31.3.1"
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
